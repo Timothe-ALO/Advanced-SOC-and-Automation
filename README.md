@@ -1,3 +1,3 @@
 # Advanced-SOC-and-Automation
-This project concerns the advanced configuration of network analysis tools, including IDs, IPs, and SIEM. Interconnected by automation scripts, the system moves from system analysis to vulnerability discovery and resolution. It includes Splunk, Cortex, TheHive, Elasticsearch, Cassandra, and MISP.
+This project concerns the advanced configuration of network analysis tools, including IDs, IPs, and SIEM. Interconnected by automation scripts, the system moves from system analysis to vulnerability discovery and resolution. It includes Splunk, Cortex, TheHive, Elasticsearch, Cassandra, MISP, VirusTotal, API google Mail ...
 <img width="1211" height="864" alt="Topo" src="https://github.com/user-attachments/assets/2c68a248-e3c8-4729-99c5-5b544ebd88da" />
